@@ -5,7 +5,7 @@
 ## Technologies Used
 
 ![Screenshot](screenshot1.png)
-![Screenshot](screensho5.png)
+![Screenshot](screenshot5.png)
 
 - HTML
 - CSS
